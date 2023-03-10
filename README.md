@@ -1,7 +1,5 @@
 # PicoCTF2021-Writeup
 
-For all binary exploitation problems in this writeup, you can find a more detailed explanation [here](https://github.com/vivian-dai/PicoCTF2021-Writeup/discussions/11)
-
 ## Questions
 
 <details>
