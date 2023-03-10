@@ -1,8 +1,6 @@
 # C++ Vector Methods
 
-```c++
-    vector::size(): Returns the number of elements in the vector.
-```
+###vector::size(): Returns the number of elements in the vector.
 
 ```c++
 #include <iostream>
