@@ -24,7 +24,7 @@ HINT
 
 ## Approach
 
-Thanks god, this challenge requires less head scratching compared to (Special)[../Special]. Somehow, I am not able to use commands such as `ls, cat, file and so on...`
+Thanks god, this challenge requires less head scratching compared to [Special](../Special). Somehow, I am not able to use commands such as `ls, cat, file and so on...`
 
 However, I could still use `cd` and `echo`. I could read the directory I am located by using `echo *` and navigate using `cd`.
 
