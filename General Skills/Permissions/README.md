@@ -25,4 +25,4 @@ HINTS
 
 Boring challenge, ssh into the shell and navigate into the root directory, saw a directory named `challenge`. It contains a file that bear a flag, hence it can be solved by simply `cat {filename}`
 
-> picoCTF{...<redacted>...}
+> picoCTF{...\<redacted\>...}
