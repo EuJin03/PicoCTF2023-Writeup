@@ -109,3 +109,7 @@ These are the challenges that I had explored and solved. I will be updating this
 | Place          | Team Name | Points | Individual Contributions |
 | -------------- | --------- | ------ | ------------------------ |
 | 476th (Global) | DarkSide  | 4600   | 3100                     |
+
+## Score Progression
+
+(Score Progression)[https://cdn.discordapp.com/attachments/1026046358043512864/1091456644585623632/image.png]
